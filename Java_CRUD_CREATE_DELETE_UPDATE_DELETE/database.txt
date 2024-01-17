@@ -1,0 +1,16 @@
+purcell_2009_1,2009,purcell,gramedia,calculus
+faqihza_2019_1,2019,faqihza,gramedia,belajar C++
+faqihza_2019_2,2019,faqihza,gramedia,belajar python
+dimas_2028_1,2028,dimas,media kronco,MySql
+rayhan_2024_1,2024,rayhan,Viktoria media kita,PHP language
+fiersabersari_2012_1,2012,fiersa bersari,media kita,jejak langkah
+iksan_2024_1,2024,iksan,viktor media,C++ OOP
+pidibaiq_1995_1,1995,pidi baiq,bandung production,dilan 1995
+dimas_2029_1,2029,dimas,perpustakaan nasional,golang expert
+pramoedyaanantanoer_1978_1,1978,pramoedya anantanoer,media kita,bumi manusia
+samid_2005_1,2005,samid,gramedia,dalang pembunuhan munir
+samid_1998_1,1998,samid,media kebenaran,kebenaran widji thukul
+samid_2015_1,2015,samid,lumajang media,kebenarana salim kancil
+samid_1969_1,1969,samid,kemerdekaan media,dalang PKI
+hindia_2022_1,2022,hindia,feast,lomba sihir
+iksan_2003_1,2003,iksan,Indonesia Merdeka,Why you speech
